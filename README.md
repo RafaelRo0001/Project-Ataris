@@ -3,3 +3,6 @@ Project "Atarisadministrador2 " oriented to the administration. To make changes 
 In this link you can access the java classes of the ATARIS administrator project.
 https://github.com/RafaelRo0001/Project-Ataris/tree/main/Atarisadministrador2/src/main/java/datos
 
+In this mysql file you can access the information of the (tables, stored procedures, user information and the codes that were carried out for the realization of the same project database).
+https://github.com/RafaelRo0001/Project-Ataris/blob/main/ataris.sql
+
